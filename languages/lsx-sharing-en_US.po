@@ -1,0 +1,45 @@
+# Copyright (C) 2023 LightSpeed
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: LSX Sharing 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lsx-sharing\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-09T09:11:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: lsx-sharing\n"
+
+#. Plugin Name of the plugin
+msgid "LSX Sharing"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.lsdev.biz/product/lsx-sharing/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The LSX Sharing extension add social share icons for LSX Theme."
+msgstr ""
+
+#. Author of the plugin
+msgid "LightSpeed"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.lsdev.biz/"
+msgstr ""
+
+#: src/block.json
+msgctxt "block title"
+msgid "LSX Sharing"
+msgstr ""
+
+#: src/block.json
+msgctxt "block description"
+msgid "The LSX Sharing block"
+msgstr ""
